@@ -1,9 +1,9 @@
-.. Read the Docs Template documentation master file, created by
+.. ZENAPI documentation master file, created by
    sphinx-quickstart on Tue Aug 26 14:19:49 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+Bienvenue sur la Documentation de ZENAPI!
 ==================================================
 
 Contents:
@@ -16,7 +16,7 @@ Contents:
 
 
 
-Indices and tables
+Tables des indices
 ==================
 
 * :ref:`genindex`
